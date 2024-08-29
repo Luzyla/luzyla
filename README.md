@@ -2,7 +2,7 @@
 
 A passionate FrontEnd Developer, skilled in JavaScript, React.js & Next.js. My mojo is Transforming Ideas into Seamless Web Experiences 💕.
 
-### 🗽 Portfolio
+### 🔗 Portfolio
 
 [<img alt="Luzyla dev logo" src="https://luzyla.dev/images/luzyla-dev-logo-transp.png" style="width: 100px">](https://luzyla.dev/)
 
@@ -12,9 +12,7 @@ I use to study a Biology degree at the Exact and Natural Science Faculty of the 
 
 #### Some Skills
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-grey?logo=javascript"> <img alt="React" src="https://img.shields.io/badge/react-grey?logo=react"> <img alt="Next" src="https://img.shields.io/badge/next-grey?logo=nextdotjs"> <img alt="HTML" src="https://img.shields.io/badge/html5-grey?logo=html5"> <img alt="CSS" src="https://img.shields.io/badge/css3-grey?logo=css3">
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-grey?logo=ubuntu"> <img alt="Git" src="https://img.shields.io/badge/git-grey?logo=git"> <img alt="npm" src="https://img.shields.io/badge/npm-grey?logo=npm"> <img alt="Bash" src="https://img.shields.io/badge/bash-grey?logo=gnubash">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-grey?logo=javascript"> <img alt="React" src="https://img.shields.io/badge/react-grey?logo=react"> <img alt="Next" src="https://img.shields.io/badge/next-grey?logo=nextdotjs"> <img alt="HTML" src="https://img.shields.io/badge/html5-grey?logo=html5"> <img alt="CSS" src="https://img.shields.io/badge/css3-grey?logo=css3"> <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-grey?logo=ubuntu"> <img alt="Git" src="https://img.shields.io/badge/git-grey?logo=git"> <img alt="npm" src="https://img.shields.io/badge/npm-grey?logo=npm"> <img alt="Bash" src="https://img.shields.io/badge/bash-grey?logo=gnubash">
 
 #### 📫 How to reach me
 
