@@ -8,7 +8,7 @@ A passionate FrontEnd Developer, skilled in JavaScript, React.js & Next.js. My m
 
 #### ⚡ Fun fact
 
-I use to study a Biology degree at the Exact and Natural Science Faculty of the Buenos Aires University (UBA)...
+My cat name is Chocolate. He looks like a siamese cat but is not part of that breed...
 
 #### Some Skills
 
