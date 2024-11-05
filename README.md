@@ -39,8 +39,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ---
 
-<img alt="typescript" src="https://img.shields.io/badge/typescript-grey?logo=typescript">  
-
+<img alt="typescript" src="https://img.shields.io/badge/typescript-grey?logo=typescript">
 
 #### 🗃️ Featured Project: ToDo List 📋
 
