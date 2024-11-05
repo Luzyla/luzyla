@@ -8,7 +8,7 @@ A passionate FrontEnd Developer, skilled in JavaScript, React.js & Next.js. My m
 
 #### ⚡ Fun fact
 
-My cat name is Chocolate. He looks like a siamese cat but is not part of that breed...
+My favorite experiments now involve JavaScript and React instead of test tubes, but the scientific curiosity remains.
 
 #### Some Skills
 
@@ -18,6 +18,8 @@ My cat name is Chocolate. He looks like a siamese cat but is not part of that br
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin">](https://linkedin.com/in/luzyla)
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-grey?logo=instagram">](https://www.instagram.com/luzyla.dev/)
+
+[![Luzyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzyla)](https://github.com/luzyla/github-readme-stats)
 
 <!--
 **Luzyla/luzyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
