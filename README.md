@@ -51,7 +51,7 @@ A showcase of my web development skills, built with React and styled with a pixe
 
 ---
 
-<img alt='my stats' aling="left" width='55.5%' src='https://github-readme-stats.vercel.app/api?username=luzyla&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage' /> <img alt='my langs' aling="left" width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luzyla&theme=radical&show_icons=true&size_weight=0.5&count_weight=0.5' />
+<img alt='my stats' aling="center" width='58%' src='https://github-readme-stats.vercel.app/api?username=luzyla&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage' /> <img alt='my langs' aling="center" width='31.8%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luzyla&theme=radical&show_icons=true&size_weight=0.5&count_weight=0.5&layout=donut-vertical' />
 
 <!--
 **Luzyla/luzyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
