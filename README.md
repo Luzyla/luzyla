@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm Luzyla
 
-A passionate FrontEnd Developer, skilled in JavaScript, React.js & Next.js. My mojo is Transforming Ideas into Seamless Web Experiences 💕.
+A passionate FrontEnd Developer, skilled in JavaScript, TypeScript, React.js & Next.js. My mojo is Transforming Ideas into Seamless Web Experiences 💕.
 
 ### 🔗 Portfolio
 
@@ -8,25 +8,31 @@ A passionate FrontEnd Developer, skilled in JavaScript, React.js & Next.js. My m
 
 [<img alt="Luzyla dev logo" src="https://luzyla.dev/images/luzyla-dev-logo-transp.png" style="width: 100px">](https://luzyla.dev/)
 
-#### ⚡ Fun fact
+### ⚡ Fun fact
 
 ---
 
 🧪 My favorite experiments now involve JavaScript and React instead of test tubes 🧬, but the scientific curiosity remains 🔬🧠.
 
-#### Some Skills
+### Some Skills
 
 ---
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-grey?logo=javascript"> <img alt="React" src="https://img.shields.io/badge/react-grey?logo=react"> <img alt="Next" src="https://img.shields.io/badge/next-grey?logo=nextdotjs"> <img alt="HTML" src="https://img.shields.io/badge/html5-grey?logo=html5"> <img alt="CSS" src="https://img.shields.io/badge/css3-grey?logo=css3"> <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind CSS-grey?logo=tailwindcss"> <img alt="Git" src="https://img.shields.io/badge/git-grey?logo=git"> <img alt="npm" src="https://img.shields.io/badge/npm-grey?logo=npm"> <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-grey?logo=ubuntu"> <img alt="Bash" src="https://img.shields.io/badge/bash-grey?logo=gnubash">
 
-#### 🛜 **Let's connect!**
+### I'm Learning
+
+---
+
+<img alt="typescript" src="https://img.shields.io/badge/typescript-grey?logo=typescript">
+
+### 🛜 **Let's connect!**
 
 ---
 
 Feel free to reach out if you have any questions or want to collaborate on a project.
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 ---
 
@@ -35,19 +41,17 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-gray?logo=gmail">](mailto:luzyla@gmail.com)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-gray?logo=medium">](https://medium.com/@luzyla/)
 
-#### What I'm Learning
+
+
+### 🗃️ Featured Project: ToDo List 📋
 
 ---
 
-<img alt="typescript" src="https://img.shields.io/badge/typescript-grey?logo=typescript">
+A showcase of my web development skills, built with React and styled with a pixelated design.
 
-#### 🗃️ Featured Project: ToDo List 📋
+[ToDo List Repo](https://github.com/Luzyla/todomachine-react-platzi) | [ToDo List Website](https://luzyla.github.io/todomachine-react-platzi/)
 
----
-
-A showcase of my web development skills, built with React and styled with a pixelated design. [[Repo](https://github.com/Luzyla/todomachine-react-platzi)] [[Web](https://luzyla.github.io/todomachine-react-platzi/)]
-
-#### My Stats
+### My Stats
 
 ---
 
