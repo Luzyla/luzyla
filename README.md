@@ -2,7 +2,7 @@
 
 A **Frontend Developer** with a scientific background and a natural curiosity for technology. Leveraging my expertise in React, TypeScript, and modern UI architectures, I focus on transforming concepts into high-performance, polished web interfaces. I'm dedicated to solving problems with a logical and structured approach, building solutions that are as robust on the inside as they are elegant on the outside.
 
-My ultimate goal? **Bringing ideas to life with polished web interfaces.**
+My ultimate goal? **Crafting ideas into seamless web interfaces.**
 
 ### 🔗 Portfolio
 
