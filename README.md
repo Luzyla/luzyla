@@ -28,9 +28,8 @@ I focus on identifying and dissolving technical bottlenecks. With a scientific b
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-gray?logo=gmail">](mailto:coder@luzyla.dev)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-gray?logo=medium">](https://medium.com/@luzyla/)
 
-### 📊 My Stats
+<!-- ### 📊 My Stats
 
-<p align="center">
-  <img alt="Luzyla's GitHub Stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=luzyla&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img alt="Luzyla's Top Languages" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzyla&theme=radical&show_icons=true&size_weight=0.5&count_weight=0.5&layout=donut-vertical" />
-</p>
+<picture aling="center">
+  <img alt='my stats' aling="center" width='58%' src='https://github-readme-stats.vercel.app/api?username=luzyla&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage' /> <img alt='my langs' aling="center" width='31.8%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luzyla&theme=radical&show_icons=true&size_weight=0.5&count_weight=0.5&layout=donut-vertical' />
+</picture> -->
